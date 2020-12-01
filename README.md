@@ -1,8 +1,16 @@
 # Node-Photo-Blog
+About :
+
+Great project of understanding how does React, Node, Express, Knex, Objection and Seeds work.
+
+It has more-less basic features, but once you understand what is going on in here, you are ready to develop larger project in this tech-stack.
+
+The project represents knowledge and understanding of full-stack development.
+
 
 Requirements :
 
-1. React, Node, Express, Knex, npm installed
+1. React, Node, Express, Knex, MySQL, npm installed
 
 Run it:
 
