@@ -2,7 +2,7 @@
 
 Requirements :
 
-1. React, Node, Express, npm installed
+1. React, Node, Express, Knex, npm installed
 
 Run it:
 
