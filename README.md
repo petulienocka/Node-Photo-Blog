@@ -8,7 +8,7 @@ Run it:
 
 - install node_modules in client and server side
 - run npm i in both folders 
-- run the seed or knex database
+- run the seed or knex database in folders on server side
 
 Start it:
 
